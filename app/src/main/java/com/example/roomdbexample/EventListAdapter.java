@@ -12,6 +12,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 
+import com.example.roomdbexample.roomdb.Event;
+
 import java.util.List;
 
 public class EventListAdapter extends ArrayAdapter<Event> {
