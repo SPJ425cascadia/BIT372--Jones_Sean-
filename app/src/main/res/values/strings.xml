@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RoomDB Example</string>
+    <string name="app_name">Event List MVVM</string>
     <string-array name="event_type">
         <item>Party</item>
         <item>Concert</item>
