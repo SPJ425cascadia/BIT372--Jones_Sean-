@@ -1,4 +1,4 @@
-package com.example.eventlistmvvm;
+package com.example.unitcoverter;
 
 import org.junit.Test;
 
@@ -9,9 +9,11 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class ExampleUnitTest {
+public class ConverterTest {
     @Test
-    public void addition_isCorrect() {
-        assertEquals(4, 2 + 2);
+    public void pounds_to_kg_conversion_isCorrect() {
+        assertEquals(0.453592, Converter.toLbs(1),0.1);
     }
-}
+    }
+
+

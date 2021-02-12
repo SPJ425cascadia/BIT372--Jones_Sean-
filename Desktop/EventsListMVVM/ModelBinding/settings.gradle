@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Model Binding"
+rootProject.name = "Unit Coverter"
