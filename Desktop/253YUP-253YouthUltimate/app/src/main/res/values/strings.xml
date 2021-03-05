@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">253YouthUltimate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vision">Vision: To embed equity, radically diversify, improve, promote, and empower youth ultimate in the Greater Tacoma Area.</string>
+    <string name="mission">Mission: To create a youth ultimate program in the Greater Tacoma area that provides a radically inclusive, empowered, and joyful community.</string>
+    <string name="core_values">Core Values: PROVIDE, EMPOWER, PLAY</string>
+    <string name="welcome">Welcome to 253 Youth Ultimate Program</string>
+</resources>
